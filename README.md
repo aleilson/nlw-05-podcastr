@@ -8,6 +8,9 @@ First, run the development server:
 npm run dev
 # or
 yarn dev
+
+and in the new terminal
+yarn server to power json-server
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
